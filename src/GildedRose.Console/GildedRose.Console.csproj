@@ -44,6 +44,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\IItem.cs" />
+    <Compile Include="Model\Item.cs" />
+    <Compile Include="Model\NormalItem.cs" />
+    <Compile Include="Model\ValuableItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
