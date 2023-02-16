@@ -48,6 +48,8 @@
     <Compile Include="Model\Item.cs" />
     <Compile Include="Model\NormalItem.cs" />
     <Compile Include="Model\ValuableItem.cs" />
+    <Compile Include="Model\ValuableItem.cs" />
+    <Compile Include="Model\NormalItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
